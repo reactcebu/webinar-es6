@@ -1,4 +1,4 @@
-# Dillinger
+# Javascript ES6 Webinar
 
 File assets for the Javascript ES6 webinar.
 
